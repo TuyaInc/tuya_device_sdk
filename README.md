@@ -28,5 +28,6 @@ sh build_app.sh <app path> <app name> <version>
 
 ### ubuntu x64
 
+* linux-ubuntu-6.2.0_64Bi
 
 ...
