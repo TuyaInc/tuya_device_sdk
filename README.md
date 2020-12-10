@@ -14,6 +14,8 @@ tuya_device_sdk is an integrated library&APIs, primarily for developing TUYA dev
 
 2) compile this demo.
 
+3)
+
 ```bash
 sh build_app.sh <app path> <app name> <version>
 ```
